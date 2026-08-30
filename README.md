@@ -7,12 +7,6 @@ An AI-powered assessment processing application that extracts questions and hand
 ### Frontend
 https://ai-assessment-extraction-app.vercel.app
 
-### Backend API
-https://ai-assessment-extraction-app-production-3060.up.railway.app
-
-### Health Check
-https://ai-assessment-extraction-app-production-3060.up.railway.app/api/health
-
 ---
 
 ## 📌 Overview
